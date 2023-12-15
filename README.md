@@ -107,6 +107,9 @@ APIs
 - [Anti-Captcha](https://anti-captcha.com/apidoc) - Access to Anti-Captcha’s API.
 - [Naver Captcha](https://developers.naver.com/products/captcha) - Access to Naver’s Captcha API.
 
+### Carbon Emissions
+- [DithcCarbon](https://docs.ditchcarbon.com/) - Get access to company and product carbon disclosures along with initiative participation as well as recommended actions for companies to accelerate their decarbonisation.
+
 ### Check-In
 - [Facebook Check-In](https://developers.facebook.com/docs/graph-api/reference/v2.3/checkin) - A check-in made to a location-based Page.
 - [FourSquare Check-In](https://developer.foursquare.com/docs/checkins/add) - Allows you to check in to a place.

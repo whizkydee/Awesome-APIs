@@ -21,6 +21,7 @@ This is an attempt to categorise different APIs scoured from the web which make 
 - [Content] (#content)
 - [Data Science] (#data-science)
 - [Dictionary] (#dictionary)
+- [Emmissions] (#emmissions)
 - [File Storage and Manipulation] (#file-storage-and-manipulation)
 - [Fitness] (#fitness)
 - [Google] (#google)
@@ -128,6 +129,10 @@ APIs
 - [Cambridge Dictionaries Online](http://dictionary.cambridge.org/license.html) - Access to Cambridge’s custom-developed API. 💸
 - [Glosbe API](https://glosbe.com/a-api) - Dictionary API and Translation Memory API description.
 - [DictService](http://services.aonaware.com/DictService/DictService.asmx) - This Web Service allows you to access dictionary definitions from the dict.org service.
+
+### Emmissions
+- [Companies taking action](https://ditchcarbon.com/free-sbti-api-access/) - API access to the "companies taking action" list from SBTI.
+- [DitchCarbon API](https://docs.ditchcarbon.com/) - DitchCarbon provides API access to their dataset of company and product carbon emissions disclosures, also includes reccommended actions for each company to decarbonise. 💸
 
 ### File Storage and Manipulation
 - [Dropbox] (https://www.dropbox.com/developers) - API for accessing stored files and pictures which is easy to use and free for small amounts of data.

@@ -10,43 +10,43 @@ This is an attempt to categorise different APIs scoured from the web which make 
 
 ## Table of Contents
 
-- [Advertising] (#advertising)
-- [Analytics] (#analytics)
-- [Augmented Reality] (#augmented-reality)
-- [Bar Code] (#barcode)
-- [Big Data and Analytics] (#big-data-and-analytics)
-- [Bitcoin] (#bitcoin/bitcoin-wallets)
-- [Captcha] (#captcha)
-- [Check In] (#check-in)
-- [Content] (#content)
-- [Data Science] (#data-science)
-- [Dictionary] (#dictionary)
-- [File Storage and Manipulation] (#file-storage-and-manipulation)
-- [Fitness] (#fitness)
-- [Google] (#google)
-- [Image Moderation] (#image-moderation)
-- [IoT] (#iot)
-- [Login and Authentication] (#login-authentication)
-- [Machine Learning] (#machine-learning)
-- [Maps] (#maps)
-- [Miscellaneous] (#miscellaneous)
-- [Music] (#music)
-	- [Music Analytics] (#music-analytics)
-	- [Music Discovery] (#music-discovery)
-	- [Music Identification] (#music-identification)
-    - [Music Lyrics] (#music-lyrics)
-    - [Music Store] (#music-stores)
-- [Natural Language Processing] (#natural-language-processing)
+- [Advertising](#advertising)
+- [Analytics](#analytics)
+- [Augmented Reality](#augmented-reality)
+- [Bar Code](#barcode)
+- [Big Data and Analytics](#big-data-and-analytics)
+- [Bitcoin](#bitcoin/bitcoin-wallets)
+- [Captcha](#captcha)
+- [Check In](#check-in)
+- [Content](#content)
+- [Data Science](#data-science)
+- [Dictionary](#dictionary)
+- [File Storage and Manipulation](#file-storage-and-manipulation)
+- [Fitness](#fitness)
+- [Google](#google)
+- [Image Moderation](#image-moderation)
+- [IoT](#iot)
+- [Login and Authentication](#login-authentication)
+- [Machine Learning](#machine-learning)
+- [Maps](#maps)
+- [Miscellaneous](#miscellaneous)
+- [Music](#music)
+	- [Music Analytics](#music-analytics)
+	- [Music Discovery](#music-discovery)
+	- [Music Identification](#music-identification)
+    - [Music Lyrics](#music-lyrics)
+    - [Music Store](#music-stores)
+- [Natural Language Processing](#natural-language-processing)
 - [News](#news-services)
-- [Placeholder Images] (#placeholder-images)
-- [Places] (#places)
-- [Social Media] (#social-media)
-- [Source Control] (#source-control)
-- [Transportation] (#transportation)
-- [URL Shorteners] (#url-shorteners)
-- [Weather] (#weather)
-- [More Resources] (#more-resources)
-- [Contribute] (#contributions)
+- [Placeholder Images](#placeholder-images)
+- [Places](#places)
+- [Social Media](#social-media)
+- [Source Control](#source-control)
+- [Transportation](#transportation)
+- [URL Shorteners](#url-shorteners)
+- [Weather](#weather)
+- [More Resources](#more-resources)
+- [Contribute](#contributions)
 
 
 APIs
@@ -130,10 +130,10 @@ APIs
 - [DictService](http://services.aonaware.com/DictService/DictService.asmx) - This Web Service allows you to access dictionary definitions from the dict.org service.
 
 ### File Storage and Manipulation
-- [Dropbox] (https://www.dropbox.com/developers) - API for accessing stored files and pictures which is easy to use and free for small amounts of data.
-- [Amazon S3] (https://aws.amazon.com/de/documentation/s3/) - API that provides access to stored files and can be added easily to any service - and it's free for twelve months.
-- [Cloudinary] (http://cloudinary.com/documentation) - API for image and video storage and manipulation - free for up to 75,000 images and 7,500 manipulations per month, good documentation, it can also manipulate GIFs and PDFs.
-- [Filestack] (https://filestack.com/docs/getting-started) - API for image and file manipulation, 250 uploads and 500 uploads per month for free, free CDN, HTML widget.
+- [Dropbox](https://www.dropbox.com/developers) - API for accessing stored files and pictures which is easy to use and free for small amounts of data.
+- [Amazon S3](https://aws.amazon.com/de/documentation/s3/) - API that provides access to stored files and can be added easily to any service - and it's free for twelve months.
+- [Cloudinary](http://cloudinary.com/documentation) - API for image and video storage and manipulation - free for up to 75,000 images and 7,500 manipulations per month, good documentation, it can also manipulate GIFs and PDFs.
+- [Filestack](https://filestack.com/docs/getting-started) - API for image and file manipulation, 250 uploads and 500 uploads per month for free, free CDN, HTML widget.
 
 ### Fitness
 

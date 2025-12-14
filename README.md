@@ -22,6 +22,7 @@ This is an attempt to categorise different APIs scoured from the web which make 
 - [Data Science] (#data-science)
 - [Dictionary] (#dictionary)
 - [File Storage and Manipulation] (#file-storage-and-manipulation)
+- [Finance] (#finance)
 - [Fitness] (#fitness)
 - [Google] (#google)
 - [Image Moderation] (#image-moderation)
@@ -134,6 +135,9 @@ APIs
 - [Amazon S3] (https://aws.amazon.com/de/documentation/s3/) - API that provides access to stored files and can be added easily to any service - and it's free for twelve months.
 - [Cloudinary] (http://cloudinary.com/documentation) - API for image and video storage and manipulation - free for up to 75,000 images and 7,500 manipulations per month, good documentation, it can also manipulate GIFs and PDFs.
 - [Filestack] (https://filestack.com/docs/getting-started) - API for image and file manipulation, 250 uploads and 500 uploads per month for free, free CDN, HTML widget.
+
+### Finance
+- [Financial Data] (https://financialdata.net/documentation) - Stock market and financial data API, real-time and historical data.
 
 ### Fitness
 

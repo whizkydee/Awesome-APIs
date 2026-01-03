@@ -678,6 +678,7 @@ This is an attempt to categorise different APIs scoured from the web which make 
 | --- | ----------- | ---- |
 | [**MPDS**](https://developer.mpds.io) | Provides experimental materials science data excerpted from the peer-reviewed publications. | 💸 |
 | [**NASA**](https://api.nasa.gov/index.html) | Get NASA data, including imagery, list of asteroids based on their closest approach date to Earth and much more. | **N/A** |
+| [**Vedika API**](https://vedika.io) | Vedic astrology and astronomy API providing planetary positions, birth charts, panchang, dosha analysis, and AI-powered astrology chatbot. Uses Swiss Ephemeris for 97% accuracy. | 💸 |
 | [**Open Science Framework**](https://osf.io/y9jdt/wiki/home/) | A free, open source workflow/project management system for storing, collaborating on, and sharing research across the scholarly life cycle. | ![Open Source](https://raw.githubusercontent.com/abhishekbanthia/Public-APIs/master/opensource.png "Open Source") |
 | [**Open Access Button**](https://openaccessbutton.org/api) | Free, legal research articles delivered instantly or automatically requested from authors. | **N/A** |
 | [**SHARE**](http://share-research.readthedocs.io/en/latest/) | A free, open dataset of scholarly research activity across the scholarly lifecycle. | ![Open Source](https://raw.githubusercontent.com/abhishekbanthia/Public-APIs/master/opensource.png "Open Source") |

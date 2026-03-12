@@ -329,6 +329,9 @@ latitude/longitude, and text search based upon categories, address, city, provin
 - [Moovit](https://www.developers.moovitapp.com/) - Connect users from your app to the Moovit app with a specific action through deeplinks.
 - [Edmunds](http://developer.edmunds.com/) - A dataset containing all the car makes.
 
+### Shipping & Address Validation
+- [RevAddress](https://revaddress.com/docs) - USPS v3 address validation, batch verification (50/call), shipping rates. Free tier, no USPS credentials needed.
+
 ### URL Shorteners
 
 - [Google URL Shortener](https://developers.google.com/url-shortener/v1/) - Service that takes long URLs and squeezes them into fewer characters.

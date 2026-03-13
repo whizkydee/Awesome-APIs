@@ -213,6 +213,7 @@ APIs
 - [MixRadio](http://dev.mixrad.io/doc/) - Provides a set of web APIs and native platform SDKs built around their music catalogues.
 - [FreeDB](http://www.freedb.org/) - Look up CD information using the freed database.
 - [QuantOneMusic](http://quantonemusic.com/) - Answers the need for digital music data.
+- [Himalayas](https://himalayas.app/api) - Browse and search remote job listings by keyword, country, company, and timezone.
 
 ### Music
 

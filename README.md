@@ -101,6 +101,7 @@ APIs
 - [Bitcoincharts](https://bitcoincharts.com/about/markets-api/) - You can use this API to include markets data in your websites, mobile apps or desktop applets.
 - [ShapeShift.io](https://shapeshift.io/) - Exchange between cryptocurrencies without an account.  Well documented API for easy use.
 - [Exchange Rates API](https://blockchain.info/api/exchange_rates_api) - Market Prices and exchanges rates api.
+- [EruditePay](https://bridge.eruditepay.com) - 352 blockchain analytics endpoints across Base, Tron, BTC, XRP, and Kaspa. Token prices, whale tracking, DeFi analytics, gas forecasting, NFT data, and security scanning. Pay-per-call with x402 micropayments.
 
 ### Captcha
 - [Google reCAPTCHA](https://developers.google.com/recaptcha/intro?hl=en) - ReCAPTCHA lets you embed a CAPTCHA in your web pages in order to protect them against spam and other types of automated abuse.

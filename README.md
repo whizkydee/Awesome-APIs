@@ -82,6 +82,7 @@ APIs
 ### BarCode
 
 - [Google Barcode](https://developers.google.com/vision/barcodes-overview?hl=en) - The Barcode API detects barcodes in real-time, on device, in any orientation. It can also detect multiple barcodes at once.
+- [QRMint](https://qrmint.com) - Free API for generating styled QR codes with customizable colors, shapes, and logos.
 
 ### Big Data and Analytics
 - [Ryft](http://www.ryft.com/api) - integrate the Ryft ONE’s data analysis capabilities into existing big data environments for faster data analysis and real-time intelligence.
@@ -115,6 +116,7 @@ APIs
 
 ### Content
 - [qKast Channel Content](https://github.com/egfx/qKast) - Access live content collections sourced from any page around the web.
+- [LinkMeta](https://linkmeta.softvoyagers.com) - Free API for extracting metadata from any URL, including title, description, and Open Graph tags.
 
 ### Data Science
 
@@ -213,6 +215,9 @@ APIs
 - [MixRadio](http://dev.mixrad.io/doc/) - Provides a set of web APIs and native platform SDKs built around their music catalogues.
 - [FreeDB](http://www.freedb.org/) - Look up CD information using the freed database.
 - [QuantOneMusic](http://quantonemusic.com/) - Answers the need for digital music data.
+- [PageShot](https://pageshot.softvoyagers.com) - Free API for capturing full-page screenshots of any website.
+- [PDFSpark](https://pdfspark.softvoyagers.com) - Free API for converting HTML content to PDF documents.
+- [OGForge](https://ogforge.softvoyagers.com) - Free API for generating Open Graph images dynamically for social media sharing.
 
 ### Music
 
@@ -338,6 +343,7 @@ latitude/longitude, and text search based upon categories, address, city, provin
 - [Readability](https://www.readability.com/developers/api/shortener) - Shorten long URLs and deliver a great reading view with a single, unique URL using the Shortener API.
 - [Anon.click](https://anon.click/api/) - Shorten long URLs and optionally protect them with passwords or captcha. No registration required.
 - [Naver URL Shortener](https://developers.naver.com/products/shortenurl) - Access to Naver’s shorten url API.
+- [LinkShrink](https://linkshrink.softvoyagers.com) - Free URL shortener API with analytics and custom alias support.
 
 ### Weather
 

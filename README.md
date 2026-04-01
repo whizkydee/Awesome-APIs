@@ -206,6 +206,7 @@ APIs
 
 
 ### Miscellaneous
+- [ToolPipe](https://toolpipe.dev) - 70+ free developer utility API endpoints including JSON formatting, Base64 encoding, UUID generation, hash generation, QR codes, JWT decoding, regex testing, and more. No signup required.
 
 - [BBC](http://www.bbc.co.uk/developer/technology/apis.html) - Variety of BBC APIs with access to interesting data from Radio Labs, programs played on BBC and linking data around the artist played on BBC.
 - [MuseScore](http://developers.musescore.com/) - REST based API which provides music metadata.

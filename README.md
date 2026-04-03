@@ -207,6 +207,7 @@ APIs
 
 ### Miscellaneous
 
+- [ToolPipe](https://toolpipe.dev) - 220+ free developer tool APIs (JSON formatter, Base64 encoder/decoder, QR code generator, PDF tools, hash generator, UUID generator, URL shortener, SSL checker, DNS lookup, cron parser, and more). No signup, no API key required. [Docs](https://toolpipe.dev/docs).
 - [BBC](http://www.bbc.co.uk/developer/technology/apis.html) - Variety of BBC APIs with access to interesting data from Radio Labs, programs played on BBC and linking data around the artist played on BBC.
 - [MuseScore](http://developers.musescore.com/) - REST based API which provides music metadata.
 - [Spreaker](http://developers.spreaker.com/) - Enables developers to read and write data to Spreaker.

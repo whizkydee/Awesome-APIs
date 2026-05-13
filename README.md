@@ -100,6 +100,7 @@ APIs
 - [biteasy](https://www.biteasy.com/developers) - Biteasy provides the following, free to use, APIs which a developer can use and build its own great applications.
 - [Bitcoincharts](https://bitcoincharts.com/about/markets-api/) - You can use this API to include markets data in your websites, mobile apps or desktop applets.
 - [ShapeShift.io](https://shapeshift.io/) - Exchange between cryptocurrencies without an account.  Well documented API for easy use.
+- [Sharpe](https://www.sharpe.ai/docs/free-api) - Crypto market intelligence API covering funding rates, derivatives, arbitrage, narratives, listings, and news.
 - [Exchange Rates API](https://blockchain.info/api/exchange_rates_api) - Market Prices and exchanges rates api.
 
 ### Captcha

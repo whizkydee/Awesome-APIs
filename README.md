@@ -134,6 +134,7 @@ APIs
 - [Amazon S3] (https://aws.amazon.com/de/documentation/s3/) - API that provides access to stored files and can be added easily to any service - and it's free for twelve months.
 - [Cloudinary] (http://cloudinary.com/documentation) - API for image and video storage and manipulation - free for up to 75,000 images and 7,500 manipulations per month, good documentation, it can also manipulate GIFs and PDFs.
 - [Filestack] (https://filestack.com/docs/getting-started) - API for image and file manipulation, 250 uploads and 500 uploads per month for free, free CDN, HTML widget.
+- [PixelVault] (https://pixelvault.dev/docs) - Agent-first image hosting on Cloudflare's edge, free tier (200 MB storage, 500 uploads/month), REST API + OpenAPI 3.1 spec, instant CDN URLs.
 
 ### Fitness
 

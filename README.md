@@ -496,6 +496,9 @@ This is an attempt to categorise different APIs scoured from the web which make 
 | [**Evil Insult Generator**](https://evilinsult.com/api/) | Offers the most evil insults. | ![Open Source](https://raw.githubusercontent.com/abhishekbanthia/Public-APIs/master/opensource.png "Open Source") |
 | [**Flowdash**](https://docs.flowdash.com/docs/api-introduction) | Create, edit, delete, and read your workflow data on demand. | **N/A** |
 | [**Game of Thrones Quotes**](https://gameofthronesquotes.xyz) | A free API to retrieve some quotes of Game of Thrones! | ![Open Source](https://raw.githubusercontent.com/abhishekbanthia/Public-APIs/master/opensource.png "Open Source") |
+
+| [**GcrawlAI**](https://gcrawlai.com) | Web scraping API with SERP results, screenshots, URL-to-Markdown conversion and prebuilt extractors. | ![Open Source](https://raw.githubusercontent.com/abhishekbanthia/Public-APIs/master/opensource.png "Open Source") |
+
 | [**Geocodify**](https://geocodify.com) | Worldwide geocoding, geoparsing and autocomplete for addresses. | 💸 |
 | [**Giphy**](https://developers.giphy.com/docs/) | Worlds largest library of GIFs. | **N/A** |
 | [**Httpbin**](https://httpbin.org/) | A Simple HTTP Request & Response Service. | ![Open Source](https://raw.githubusercontent.com/n0shake/Public-APIs/master/opensource.png "Open Source") |

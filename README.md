@@ -809,6 +809,7 @@ This is an attempt to categorise different APIs scoured from the web which make 
 | [**MMO Games**](https://www.mmobomb.com/api) | MMO Games database, news and giveaways. | **N/A** |
 | [**RAWG**](https://rawg.io/apidocs) | Open video game database. Find games by platform, genre, company or find game developers, stores, publishers and many more. | **N/A** |
 | [**Riot Games**](https://developer.riotgames.com/) | Riot Games game information API | **N/A** |
+| [**Sudoku100**](https://www.sudoku100.com/api) | Free Sudoku puzzle generation and embedding API with images, solver links and interactive games. | **N/A** |
 
 [⬆ Back to Table of Contents](#table-of-contents)
 ### Weather

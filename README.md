@@ -219,6 +219,7 @@ This is an attempt to categorise different APIs scoured from the web which make 
 | [**SLF**](https://github.com/slftool/slftool.github.io/blob/master/API.md) | German city, country, river, database. | ![Open Source](https://raw.githubusercontent.com/abhishekbanthia/Public-APIs/master/opensource.png "Open Source") |
 | [**Today in History**](https://history.muffinlabs.com/) | Daily historical events, births and deaths API.  | ![Open Source](https://raw.githubusercontent.com/abhishekbanthia/Public-APIs/master/opensource.png "Open Source") | 
 | [**Wikipedia**](https://en.wikipedia.org/w/api.php) | Free multilingual Encyclopedia. | **N/A** | 
+| [**Vend API**](https://extract.paypercall.dev) | Pay-per-call web-data API for AI agents: any URL to clean text or markdown, plus web search, link check, geoip and PDF-to-text; settled on-chain in XNO per call. | 💸 |
 
 [⬆ Back to Table of Contents](#table-of-contents)
 ### Currency
